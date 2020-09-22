@@ -49,6 +49,7 @@ Input: [7,1,5,3,6,4]
 Output: 5 (Comprou no dia 2 (preço
 igual a 1) e vendeu no dia 5 (preço
 igual a 6), lucro foi de 6 – 1 = 5
+
 Input: [7,6,4,3,1]
 Output: 0 (Nesse caso nenhuma
 transação deve ser feita, lucro máximo
