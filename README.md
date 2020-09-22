@@ -13,7 +13,7 @@ Dado nums = [2, 7, 11, 15], alvo = 9,
 Como nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 
-
+__________________________________
 
 QUESTÃO II
 Um bracket é considerado qualquer um dos seguintes caracteres: (, ), {, }, [ ou ].
@@ -33,8 +33,7 @@ EXEMPLO
 {[(])} NAO
 {{[[(())]]}} SIM
 
-
-
+__________________________________
 
 QUESTÃO III
 Digamos que você tenha um array para o qual o elemento i
@@ -55,9 +54,7 @@ Output: 0 (Nesse caso nenhuma
 transação deve ser feita, lucro máximo
 igual a 0)
 
-
-
-
+__________________________________
 
 QUESTÃO IV
 Dados n inteiros não negativos representando um mapa de
